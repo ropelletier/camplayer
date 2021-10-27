@@ -1,3 +1,7 @@
+# This Fork is only for use with a belan container I am building. 
+Had to hardcode gpu_mem and allow this to be run as root
+
+
 # Camplayer - IP Camera viewer for the Raspberry Pi
 Use your Raspberry Pi as advanced IP camera viewer.
 The list of supported IP cameras is endless as Camplayer makes use of the RTSP and HTTP protocols for streaming.
