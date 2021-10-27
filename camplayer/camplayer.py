@@ -137,7 +137,7 @@ def main():
 
     # Get system info
     sys_info = utils.get_system_info()
-    gpu_mem = utils.get_gpu_memory()
+    gpu_mem = 256
     hw_info = utils.get_hardware_info()
 
     # Set some globals for later use
