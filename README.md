@@ -1,4 +1,4 @@
-# This Fork is only for use with a belan container I am building. 
+# This Fork is only for use with a balena container I am building. 
 Had to hardcode gpu_mem and allow this to be run as root
 
 
